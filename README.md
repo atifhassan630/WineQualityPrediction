@@ -59,7 +59,9 @@ The Linear Regression model with feature scaling and polynomial features demonst
 
 ## Author
 
+    Atif Hassan
     Gurpreet Singh 
+    
     
 ## Acknowledgments
 
